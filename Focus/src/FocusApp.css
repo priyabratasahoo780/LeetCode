@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  background-color: #111;
+  overflow: hidden;
+}
+
+.illusion-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.ratio-16-9-box {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.rotating-layer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* Use vmax so it covers the entire screen, even in extreme aspect ratios */
+  width: 150vmax;
+  height: 150vmax;
+  margin-top: -75vmax;
+  margin-left: -75vmax;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.illusion-image,
+.css-illusion-fallback {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+}
+
+.css-illusion-fallback {
+  border-radius: 50%; /* It spins inside the square, so circle is best */
+}
+
+.ring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.ring1 {
+  width: 100%;
+  height: 100%;
+  background: repeating-conic-gradient(from 0deg, #000 0deg 9deg, #fff 9deg 18deg);
+}
+
+.ring2 {
+  width: 65%;
+  height: 65%;
+  background: repeating-conic-gradient(from 9deg, #000 0deg 9deg, #fff 9deg 18deg);
+}
+
+.ring3 {
+  width: 30%;
+  height: 30%;
+  background: repeating-conic-gradient(from 0deg, #000 0deg 9deg, #fff 9deg 18deg);
+}
