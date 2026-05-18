@@ -23,5 +23,7 @@ public:
      }
      return third == LONG_MIN
           ? first : third;
+
+          
     }
 };
