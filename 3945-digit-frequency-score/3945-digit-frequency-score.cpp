@@ -5,7 +5,6 @@ public:
         while(n>0)
         {
             int rem = n % 10;
-            
             res += rem;
             n /= 10;
         }
