@@ -10,6 +10,6 @@ SET N = N - 1;
     ORDER BY salary DESC
     LIMIT N,1
 ), 
-NULL) AS SecondHighestSalary
+NULL) 
   );
 END
