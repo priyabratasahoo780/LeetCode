@@ -17,7 +17,7 @@ public:
         temp1 = (temp1 == nullptr) ? headB : temp1->next;
         temp2 = (temp2 == nullptr) ? headA : temp2->next;
        }
-         return temp1;
+         return temp2;
        }
     
 };
