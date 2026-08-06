@@ -15,15 +15,31 @@ public:
             return head;
         }
            ListNode* second = head->next;
-        //     ListNode* prev = nullptr;
-        //     ListNode* first = head;
-        //   while(first !=nullptr && second != nullptr){
-        //     ListNode third = second->next;
-        //     second->next = first;
-        //   }
-         head->next = swapPairs(second->next);
-          second->next = head;
-          return second;
+            ListNode* prev = nullptr;
+            ListNode* first = head;
+          while(first !=nullptr && second != nullptr){
+            ListNode* third = second->next;
+            second->next = first;
+            first->next = third;
+            if(prev != nullptr){
+                prev->next = second;
+            }
+            else{
+                head = second;
+            }
+            prev = first;
+            first = third;
+            if(third != nullptr){
+                second = third->next;
+            }
+            else{
+                second = nullptr;
+            }
+          }
+          return head;
+        //  head->next = swapPairs(second->next);
+        //   second->next = head;
+        //   return second;
     }
 };
 
