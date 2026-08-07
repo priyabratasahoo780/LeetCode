@@ -18,7 +18,7 @@ public:
 
        while(temp != nullptr && temp->next != nullptr){
          if(temp->val == temp->next->val){
-            ListNode* duplicate = temp->next;
+            // ListNode* duplicate = temp->next;
             temp->next = temp->next->next;
          }
          else{
