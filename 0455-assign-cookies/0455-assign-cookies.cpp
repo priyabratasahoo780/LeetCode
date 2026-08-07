@@ -5,11 +5,13 @@ public:
                   sort(g.begin(), g.end());
         int i = 0;
         int j = 0;
+        int count = 0;
         if(s.size() == 0){
             return 0;
         }
         while(i<=g.size()-1 && j<=s.size()-1){
             if(g[i] <= s[j]){
+                count++;
                 i++;
                 j++;
             }
@@ -17,6 +19,6 @@ public:
                 j++;
             }
         }
-        return i;
+        return count;
     }
 };
