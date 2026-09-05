@@ -6,6 +6,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/priyabratasahoo780/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ Leetcode
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
