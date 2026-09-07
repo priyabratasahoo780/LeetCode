@@ -29,6 +29,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyabratasahoo780/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/priyabratasahoo780/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/priyabratasahoo780/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
