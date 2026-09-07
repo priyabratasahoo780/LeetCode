@@ -17,6 +17,7 @@ Leetcode
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -25,11 +26,13 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyabratasahoo780/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyabratasahoo780/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/priyabratasahoo780/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +55,8 @@ Leetcode
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 <!---LeetCode Topics End-->
