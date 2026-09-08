@@ -28,6 +28,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyabratasahoo780/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
