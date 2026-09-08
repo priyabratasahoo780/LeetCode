@@ -3,9 +3,7 @@ public:
     int countCommas(int n) {
         if(n<1000){
             return 0;
-        }else if(n > 999){
-            return n - 1000 + 1;
         }
-          return n;
+          return n - 1000 + 1;
     }
 };
