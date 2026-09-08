@@ -7,6 +7,7 @@ Leetcode
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/priyabratasahoo780/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3870-count-commas-in-range](https://github.com/priyabratasahoo780/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
