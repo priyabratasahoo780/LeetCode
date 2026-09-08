@@ -17,6 +17,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -41,6 +42,7 @@ Leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,4 +62,16 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
