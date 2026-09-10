@@ -5,6 +5,7 @@ Leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/priyabratasahoo780/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3870-count-commas-in-range](https://github.com/priyabratasahoo780/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
