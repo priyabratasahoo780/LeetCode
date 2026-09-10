@@ -12,4 +12,3 @@ public:
         return reverse == original;
     }
 };
-
