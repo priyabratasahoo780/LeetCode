@@ -6,9 +6,9 @@ public:
         for(char ch: s){
             if(ch == '('){
                 curr_depth++;
+                max_depth = max(max_depth,curr_depth);
             }
             else if(ch == ')'){
-                max_depth = max(max_depth,curr_depth);
                 curr_depth--;
             }
         }
