@@ -98,4 +98,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyabratasahoo780/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
