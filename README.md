@@ -55,6 +55,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyabratasahoo780/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
