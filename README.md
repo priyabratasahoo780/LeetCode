@@ -85,6 +85,7 @@ Leetcode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyabratasahoo780/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -102,4 +103,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/priyabratasahoo780/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyabratasahoo780/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
