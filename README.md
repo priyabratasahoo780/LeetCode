@@ -23,6 +23,7 @@ Leetcode
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0283-move-zeroes](https://github.com/priyabratasahoo780/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/priyabratasahoo780/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/priyabratasahoo780/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -58,6 +59,7 @@ Leetcode
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/priyabratasahoo780/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/priyabratasahoo780/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
