@@ -22,6 +22,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyabratasahoo780/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0053-maximum-subarray](https://github.com/priyabratasahoo780/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/priyabratasahoo780/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0283-move-zeroes](https://github.com/priyabratasahoo780/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/priyabratasahoo780/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -114,4 +115,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyabratasahoo780/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/priyabratasahoo780/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/priyabratasahoo780/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
